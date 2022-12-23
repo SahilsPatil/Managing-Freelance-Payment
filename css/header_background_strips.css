@@ -1,0 +1,188 @@
+.header_background_strips {
+    position: relative;
+    opacity: 0.3;
+}
+.header_background_strip_1 {
+    position: absolute;
+    width: 73px;
+    height: 143.65px;
+    left: 4px;
+    top: 0px;
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_2 {
+    position: absolute;
+    width: 73px;
+    height: 238.25px;
+    left: 77px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_3 {
+    position: absolute;
+    width: 73px;
+    height: 311.83px;
+    left: 223px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_4 {
+    position: absolute;
+    width: 73px;
+    height: 183.95px;
+    left: 296px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_5 {
+    position: absolute;
+    width: 73px;
+    height: 238.25px;
+    left: 442px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_6 {
+    position: absolute;
+    width: 73px;
+    height: 143.65px;
+    left: 515px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_7 {
+    position: absolute;
+    width: 73px;
+    height: 183.95px;
+    left: 588px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_8 {
+    position: absolute;
+    width: 73px;
+    height: 329.35px;
+    left: 661px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_9 {
+    position: absolute;
+    width: 73px;
+    height: 95.48px;
+    left: 734px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_10 {
+    position: absolute;
+    width: 73px;
+    height: 269.79px;
+    left: 807px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_11 {
+    position: absolute;
+    width: 73px;
+    height: 143.65px;
+    left: 880px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_12 {
+    position: absolute;
+    width: 73px;
+    height: 177.81px;
+    left: 953px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_13 {
+    position: absolute;
+    width: 73px;
+    height: 349.5px;
+    left: 1026px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_14 {
+    position: absolute;
+    width: 73px;
+    height: 226.87px;
+    left: 1099px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_15 {
+    position: absolute;
+    width: 73px;
+    height: 302.2px;
+    left: 1172px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_16 {
+    position: absolute;
+    width: 73px;
+    height: 177.81px;
+    left: 1245px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_17 {
+    position: absolute;
+    width: 73px;
+    height: 353px;
+    left: 1318px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_18 {
+    position: absolute;
+    width: 73px;
+    height: 269.79px;
+    left: 1391px;
+    top: 0px;
+
+    background: linear-gradient(180deg, rgba(79, 70, 186, 0.51) 0%, rgba(79, 70, 186, 0) 96.46%);
+}
+
+.header_background_strip_19 {}
+
+.header_background_strip_20 {}
+
+.header_background_strip_21 {}
